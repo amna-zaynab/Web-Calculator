@@ -65,6 +65,7 @@ flask-web-calculator/
 │   └── style.css       # CSS styles
 └── README.md           # Project documentation
 
+
 # How It Works
 
 - Flask serves the HTML page with the calculator UI.
