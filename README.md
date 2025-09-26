@@ -65,7 +65,7 @@ flask-web-calculator/
 ├── static/
 │   └── style.css       # CSS styles
 └── README.md           # Project documentation
-
+```
 
 # How It Works
 
