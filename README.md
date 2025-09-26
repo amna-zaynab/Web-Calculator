@@ -1,4 +1,4 @@
-# Flask Web Calculator
+# Web Calculator
 
 A sleek, minimalist web calculator built using Flask for backend routing, and handcrafted HTML, CSS, and JavaScript for the frontend. This app allows users to perform basic arithmetic operations with a clean, responsive interface.
 
