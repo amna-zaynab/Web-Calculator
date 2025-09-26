@@ -56,7 +56,7 @@ A sleek, minimalist web calculator built using Flask for backend routing, and ha
 5. Start calculating!
 
 # Project Structure
-'''text
+```
 flask-web-calculator/
 │
 ├── app.py              # Flask application
