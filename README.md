@@ -41,7 +41,7 @@ A sleek, minimalist web calculator built using Flask for backend routing, and ha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flask-web-calculator.git
+   git clone https://github.com/amna-zaynab/flask-web-calculator.git
    cd flask-web-calculator
 
 2. Install Flask:
